@@ -1,0 +1,10 @@
+
+.accordion{
+    position: relative; 
+       width: fit-content;
+}
+
+ .accordion-body{
+ width: max-content;
+
+ }
